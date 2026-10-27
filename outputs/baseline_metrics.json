@@ -1,0 +1,13 @@
+{
+  "model": "google/flan-t5-small",
+  "no_change_input_vs_target": {
+    "exact_match": 0.0,
+    "token_f1": 0.8555952380952382,
+    "char_sim": 0.985658687531662
+  },
+  "baseline_eval": {
+    "exact_match": 0.2,
+    "token_f1": 0.8690476190476191,
+    "char_sim": 0.986917489434061
+  }
+}

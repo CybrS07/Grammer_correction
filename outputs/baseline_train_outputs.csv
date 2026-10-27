@@ -1,0 +1,141 @@
+id,error_type,input,target,baseline_output
+0,article,He bought an car yesterday.,He bought a car yesterday.,He bought an car yesterday.
+1,agreement,My brothers studies hard before every exam.,My brothers study hard before every exam.,My brothers studies hard before every exam.
+2,article,He bought a egg yesterday.,He bought an egg yesterday.,He bought a egg yesterday.
+3,article,She found an garden near the park.,She found a garden near the park.,She found an garden near the park.
+4,agreement,The managers reads a book every night.,The managers read a book every night.,The managers read a book every night.
+5,agreement,Our neighbor clean the classroom after lunch.,Our neighbor cleans the classroom after lunch.,Our neighbor clean the classroom after lunch.
+6,agreement,The doctors plays football after class.,The doctors play football after class.,The doctors play football after class.
+7,agreement,A small child drink tea in the evening.,A small child drinks tea in the evening.,A small child drink tea in the evening.
+8,agreement,The managers watches the news at nine.,The managers watch the news at nine.,The managers watch the news at nine.
+9,agreement,My brothers plays football after class.,My brothers play football after class.,My brothers plays football after class.
+10,agreement,The doctors walks to school in the morning.,The doctors walk to school in the morning.,The doctors walks to school in the morning.
+11,agreement,A small child clean the classroom after lunch.,A small child cleans the classroom after lunch.,A small child clean the classroom after lunch.
+12,agreement,My brothers watches the news at nine.,My brothers watch the news at nine.,My brothers watches the news at nine.
+13,article,She found an car near the park.,She found a car near the park.,She found an car near the park.
+14,agreement,The teacher drink tea in the evening.,The teacher drinks tea in the evening.,The teacher drink tea in the evening.
+15,agreement,The manager study hard before every exam.,The manager studies hard before every exam.,The manager study hard before every exam.
+16,article,She found an pencil near the park.,She found a pencil near the park.,She found an pencil near the park.
+17,article,She found an dog near the park.,She found a dog near the park.,She found an dog near the park.
+18,article,She found a umbrella near the park.,She found an umbrella near the park.,She found a umbrella near the park.
+19,agreement,Our neighbors reads a book every night.,Our neighbors read a book every night.,Our neighbors reads a book every night.
+20,article,She found an banana near the park.,She found a banana near the park.,She found an banana near the park.
+21,agreement,The teacher watch the news at nine.,The teacher watches the news at nine.,The teacher watch the news at nine.
+22,agreement,The students visits the library on Fridays.,The students visit the library on Fridays.,The students visit the library on Fridays.
+23,article,She found an unicorn near the park.,She found a unicorn near the park.,She found an unicorn near the park.
+24,agreement,The managers visits the library on Fridays.,The managers visit the library on Fridays.,The managers visit the library on Fridays.
+25,agreement,The teachers paints pictures on the weekend.,The teachers paint pictures on the weekend.,The teachers paints pictures on the weekend.
+26,agreement,The teacher study hard before every exam.,The teacher studies hard before every exam.,The teacher study hard before every exam.
+27,article,He bought a engineer yesterday.,He bought an engineer yesterday.,He bought a engineer yesterday.
+28,agreement,The teachers writes a letter to a friend every week.,The teachers write a letter to a friend every week.,The teachers write a letter to a friend every week.
+29,agreement,The teachers drinks tea in the evening.,The teachers drink tea in the evening.,The teachers drink tea in the evening.
+30,agreement,The students sings a song at the party.,The students sing a song at the party.,The students sings a song at the party.
+31,agreement,The doctors writes a letter to a friend every week.,The doctors write a letter to a friend every week.,The doctors write a letter to a friend every week.
+32,agreement,Our neighbors sings a song at the party.,Our neighbors sing a song at the party.,Our neighbors sings a song at the party.
+33,article,She found a orange near the park.,She found an orange near the park.,She found a orange near the park.
+34,article,He bought an window yesterday.,He bought a window yesterday.,He bought an window yesterday.
+35,agreement,Our neighbors writes a letter to a friend every week.,Our neighbors write a letter to a friend every week.,Our neighbors writes a letter to a friend every week.
+36,agreement,The manager paint pictures on the weekend.,The manager paints pictures on the weekend.,The manager paints pictures on the weekend.
+37,agreement,My brothers cleans the classroom after lunch.,My brothers clean the classroom after lunch.,My brothers cleans the classroom after lunch.
+38,agreement,The doctor read a book every night.,The doctor reads a book every night.,The doctor read a book every night.
+39,agreement,The manager drink tea in the evening.,The manager drinks tea in the evening.,The manager drink tea in the evening.
+40,agreement,Our neighbors drinks tea in the evening.,Our neighbors drink tea in the evening.,Our neighbors drink tea in the evening.
+41,agreement,A small child paint pictures on the weekend.,A small child paints pictures on the weekend.,A small child paint pictures on the weekend.
+42,agreement,My brothers drinks tea in the evening.,My brothers drink tea in the evening.,My brothers drink tea in the evening.
+43,agreement,The managers sings a song at the party.,The managers sing a song at the party.,The managers sing a song at the party.
+44,article,She found a elephant near the park.,She found an elephant near the park.,She found a elephant near the park.
+45,agreement,A small child cook dinner for the family.,A small child cooks dinner for the family.,A small child cook dinner for the family.
+46,agreement,The managers writes a letter to a friend every week.,The managers write a letter to a friend every week.,The managers write a letter to a friend every week.
+47,article,She found a egg near the park.,She found an egg near the park.,She found a egg near the park.
+48,agreement,Our neighbors paints pictures on the weekend.,Our neighbors paint pictures on the weekend.,Our neighbors paints pictures on the weekend.
+49,agreement,A small child walk to school in the morning.,A small child walks to school in the morning.,A small child walk to school in the morning.
+50,article,He bought an garden yesterday.,He bought a garden yesterday.,He bought an garden yesterday.
+51,agreement,The students walks to school in the morning.,The students walk to school in the morning.,The students walk to school in the morning.
+52,article,She found a hour near the park.,She found an hour near the park.,She found a hour near the park.
+53,agreement,My brother read a book every night.,My brother reads a book every night.,My brother read a book every night.
+54,agreement,Small children sings a song at the party.,Small children sing a song at the party.,Small children sings a song at the party.
+55,agreement,Our neighbor play football after class.,Our neighbor plays football after class.,Our neighbor play football after class.
+56,agreement,Our neighbors watches the news at nine.,Our neighbors watch the news at nine.,Our neighbors watches the news at nine.
+57,agreement,Our neighbor visit the library on Fridays.,Our neighbor visits the library on Fridays.,Our neighbor visit the library on Fridays.
+58,agreement,The doctors visits the library on Fridays.,The doctors visit the library on Fridays.,The doctors visit the library on Fridays.
+59,article,He bought an table yesterday.,He bought a table yesterday.,He bought an table yesterday.
+60,agreement,The teacher sing a song at the party.,The teacher sings a song at the party.,The teacher sing a song at the party.
+61,agreement,The students reads a book every night.,The students read a book every night.,The students read a book every night.
+62,agreement,The doctor cook dinner for the family.,The doctor cooks dinner for the family.,The doctor cook dinner for the family.
+63,agreement,The teacher write a letter to a friend every week.,The teacher writes a letter to a friend every week.,The teacher write a letter to a friend every week.
+64,agreement,The doctor visit the library on Fridays.,The doctor visits the library on Fridays.,The doctor visit the library on Fridays.
+65,agreement,Small children walks to school in the morning.,Small children walk to school in the morning.,Small children walks to school in the morning.
+66,agreement,Our neighbors plays football after class.,Our neighbors play football after class.,Our neighbors plays football after class.
+67,article,He bought an banana yesterday.,He bought a banana yesterday.,He bought an banana yesterday.
+68,agreement,The teachers studies hard before every exam.,The teachers study hard before every exam.,The teachers studies hard before every exam.
+69,agreement,Our neighbors visits the library on Fridays.,Our neighbors visit the library on Fridays.,Our neighbors visits the library on Fridays.
+70,agreement,Our neighbor study hard before every exam.,Our neighbor studies hard before every exam.,Our neighbor study hard before every exam.
+71,agreement,The student clean the classroom after lunch.,The student cleans the classroom after lunch.,The student clean the classroom after lunch.
+72,article,He bought a island yesterday.,He bought an island yesterday.,He bought a island yesterday.
+73,agreement,Our neighbor sing a song at the party.,Our neighbor sings a song at the party.,Our neighbor sing a song at the party.
+74,agreement,The student write a letter to a friend every week.,The student writes a letter to a friend every week.,The student write a letter to a friend every week.
+75,article,She found an phone near the park.,She found a phone near the park.,She found an phone near the park.
+76,article,He bought an book yesterday.,He bought a book yesterday.,He bought an book yesterday.
+77,agreement,Our neighbors studies hard before every exam.,Our neighbors study hard before every exam.,Our neighbors studies hard before every exam.
+78,article,He bought an pencil yesterday.,He bought a pencil yesterday.,He bought an pencil yesterday.
+79,agreement,The teacher read a book every night.,The teacher reads a book every night.,The teacher read a book every night.
+80,agreement,The doctors drinks tea in the evening.,The doctors drink tea in the evening.,The doctors drink tea in the evening.
+81,article,She found a idea near the park.,She found an idea near the park.,She found a idea near the park.
+82,agreement,The manager watch the news at nine.,The manager watches the news at nine.,The manager watch the news at nine.
+83,agreement,The managers drinks tea in the evening.,The managers drink tea in the evening.,The managers drink tea in the evening.
+84,article,He bought an phone yesterday.,He bought a phone yesterday.,He bought an phone yesterday.
+85,agreement,The managers cooks dinner for the family.,The managers cook dinner for the family.,The managers cook dinner for the family.
+86,agreement,The doctors sings a song at the party.,The doctors sing a song at the party.,The doctors sings a song at the party.
+87,article,She found an window near the park.,She found a window near the park.,She found an window near the park.
+88,article,He bought a elephant yesterday.,He bought an elephant yesterday.,He bought a elephant yesterday.
+89,agreement,The student paint pictures on the weekend.,The student paints pictures on the weekend.,The student paints pictures on the weekend.
+90,agreement,The doctors paints pictures on the weekend.,The doctors paint pictures on the weekend.,The doctors paints pictures on the weekend.
+91,agreement,The doctors watches the news at nine.,The doctors watch the news at nine.,The doctors watch the news at nine.
+92,agreement,The student sing a song at the party.,The student sings a song at the party.,The student sing a song at the party.
+93,agreement,The teachers sings a song at the party.,The teachers sing a song at the party.,The teachers sings a song at the party.
+94,agreement,Our neighbor walk to school in the morning.,Our neighbor walks to school in the morning.,Our neighbor walk to school in the morning.
+95,agreement,The student cook dinner for the family.,The student cooks dinner for the family.,The student cook dinner for the family.
+96,agreement,The managers cleans the classroom after lunch.,The managers clean the classroom after lunch.,The managers clean the classroom after lunch.
+97,agreement,The manager play football after class.,The manager plays football after class.,The manager play football after class.
+98,article,He bought a old chair yesterday.,He bought an old chair yesterday.,He bought a old chair yesterday.
+99,agreement,The doctor sing a song at the party.,The doctor sings a song at the party.,The doctor sing a song at the party.
+100,agreement,The manager read a book every night.,The manager reads a book every night.,The manager read a book every night.
+101,agreement,The student read a book every night.,The student reads a book every night.,The student read a book every night.
+102,article,She found an river near the park.,She found a river near the park.,She found an river near the park.
+103,agreement,The doctor watch the news at nine.,The doctor watches the news at nine.,The doctor watch the news at nine.
+104,article,He bought a orange yesterday.,He bought an orange yesterday.,He bought a orange yesterday.
+105,agreement,The doctor write a letter to a friend every week.,The doctor writes a letter to a friend every week.,The doctor write a letter to a friend every week.
+106,agreement,Small children paints pictures on the weekend.,Small children paint pictures on the weekend.,Small children paints pictures on the weekend.
+107,agreement,The students cooks dinner for the family.,The students cook dinner for the family.,The students cook dinner for the family.
+108,agreement,The teachers cleans the classroom after lunch.,The teachers clean the classroom after lunch.,The teachers clean the classroom after lunch.
+109,agreement,Small children writes a letter to a friend every week.,Small children write a letter to a friend every week.,smallchildrenwritesalettertoafriendeveryweek.
+110,agreement,A small child watch the news at nine.,A small child watches the news at nine.,A small child watch the news at nine.
+111,article,She found a engineer near the park.,She found an engineer near the park.,She found a engineer near the park.
+112,agreement,A small child read a book every night.,A small child reads a book every night.,A small child read a book every night.
+113,article,He bought a idea yesterday.,He bought an idea yesterday.,He bought a idea yesterday.
+114,article,She found a island near the park.,She found an island near the park.,She found a island near the park.
+115,agreement,The doctors cleans the classroom after lunch.,The doctors clean the classroom after lunch.,The doctors cleans the classroom after lunch.
+116,agreement,Our neighbor drink tea in the evening.,Our neighbor drinks tea in the evening.,Our neighbor drink tea in the evening.
+117,article,He bought an river yesterday.,He bought a river yesterday.,He bought an river yesterday.
+118,agreement,The students paints pictures on the weekend.,The students paint pictures on the weekend.,The students paints pictures on the weekend.
+119,article,She found an book near the park.,She found a book near the park.,She found an book near the park.
+120,agreement,Small children visits the library on Fridays.,Small children visit the library on Fridays.,Small children visit the library on Fridays.
+121,agreement,My brother watch the news at nine.,My brother watches the news at nine.,My brother watch the news at nine.
+122,agreement,A small child study hard before every exam.,A small child studies hard before every exam.,A small child study hard before every exam.
+123,agreement,Small children reads a book every night.,Small children read a book every night.,Small children reads a book every night.
+124,agreement,Our neighbors walks to school in the morning.,Our neighbors walk to school in the morning.,Our neighbors walks to school in the morning.
+125,article,He bought an university yesterday.,He bought a university yesterday.,He bought an university yesterday.
+126,agreement,A small child write a letter to a friend every week.,A small child writes a letter to a friend every week.,A small child write a letter to a friend every week.
+127,agreement,The manager walk to school in the morning.,The manager walks to school in the morning.,The manager walk to school in the morning.
+128,agreement,The students studies hard before every exam.,The students study hard before every exam.,The students study hard before every exam.
+129,agreement,My brother visit the library on Fridays.,My brother visits the library on Fridays.,My brother visit the library on Fridays.
+130,agreement,The doctor drink tea in the evening.,The doctor drinks tea in the evening.,The doctor drink tea in the evening.
+131,agreement,The teacher visit the library on Fridays.,The teacher visits the library on Fridays.,The teacher visit the library on Fridays.
+132,agreement,The students plays football after class.,The students play football after class.,The students play football after class.
+133,agreement,The teachers cooks dinner for the family.,The teachers cook dinner for the family.,The teachers cooks dinner for the family.
+134,article,He bought an dog yesterday.,He bought a dog yesterday.,He bought an dog yesterday.
+135,agreement,My brothers visits the library on Fridays.,My brothers visit the library on Fridays.,My brothers visits the library on Fridays.
+136,article,She found an table near the park.,She found a table near the park.,She found an table near the park.
+137,article,He bought an house yesterday.,He bought a house yesterday.,He bought an house yesterday.
+138,agreement,My brothers cooks dinner for the family.,My brothers cook dinner for the family.,My brothers cooks dinner for the family.
+139,agreement,The teacher walk to school in the morning.,The teacher walks to school in the morning.,The teacher walk to school in the morning.

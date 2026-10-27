@@ -1,0 +1,17 @@
+{
+  "source": "synthetic template-based",
+  "total": 200,
+  "train": 140,
+  "eval": 60,
+  "error_types": {
+    "agreement": 150,
+    "article": 50
+  },
+  "preprocessing": [
+    "template generation",
+    "error injection",
+    "dedup",
+    "shuffle (seed=42)",
+    "140/60 split"
+  ]
+}

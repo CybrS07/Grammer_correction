@@ -1,0 +1,692 @@
+[
+  {
+    "pair_id": 0,
+    "input": "He bought an car yesterday.",
+    "greedy": "He bought an car yesterday.",
+    "sampled": "He bought an automobile yesterday."
+  },
+  {
+    "pair_id": 1,
+    "input": "My brothers studies hard before every exam.",
+    "greedy": "My brothers studies hard before every exam.",
+    "sampled": "– My brothers studies hard before every exam."
+  },
+  {
+    "pair_id": 2,
+    "input": "He bought a egg yesterday.",
+    "greedy": "He bought a egg yesterday.",
+    "sampled": "He bought a Egg yesterday."
+  },
+  {
+    "pair_id": 3,
+    "input": "She found an garden near the park.",
+    "greedy": "She found an garden near the park.",
+    "sampled": ", she found an garden near the park."
+  },
+  {
+    "pair_id": 4,
+    "input": "The managers reads a book every night.",
+    "greedy": "The managers read a book every night.",
+    "sampled": "The managers reads a book every night."
+  },
+  {
+    "pair_id": 6,
+    "input": "The doctors plays football after class.",
+    "greedy": "The doctors play football after class.",
+    "sampled": "the doctors play football after class."
+  },
+  {
+    "pair_id": 7,
+    "input": "A small child drink tea in the evening.",
+    "greedy": "A small child drink tea in the evening.",
+    "sampled": "A young boy drinks thyme in the evening."
+  },
+  {
+    "pair_id": 8,
+    "input": "The managers watches the news at nine.",
+    "greedy": "The managers watch the news at nine.",
+    "sampled": "The managers watch the news at 9.00."
+  },
+  {
+    "pair_id": 9,
+    "input": "My brothers plays football after class.",
+    "greedy": "My brothers plays football after class.",
+    "sampled": "My brothers play football after class."
+  },
+  {
+    "pair_id": 10,
+    "input": "The doctors walks to school in the morning.",
+    "greedy": "The doctors walks to school in the morning.",
+    "sampled": "The doctors walk to school in the morning."
+  },
+  {
+    "pair_id": 11,
+    "input": "A small child clean the classroom after lunch.",
+    "greedy": "A small child clean the classroom after lunch.",
+    "sampled": "A child cleans the classroom after lunch."
+  },
+  {
+    "pair_id": 12,
+    "input": "My brothers watches the news at nine.",
+    "greedy": "My brothers watches the news at nine.",
+    "sampled": "My brothers watch the news at nine."
+  },
+  {
+    "pair_id": 13,
+    "input": "She found an car near the park.",
+    "greedy": "She found an car near the park.",
+    "sampled": "No she found a nice car."
+  },
+  {
+    "pair_id": 14,
+    "input": "The teacher drink tea in the evening.",
+    "greedy": "The teacher drink tea in the evening.",
+    "sampled": "The teacher drinks tea in the evening."
+  },
+  {
+    "pair_id": 16,
+    "input": "She found an pencil near the park.",
+    "greedy": "She found an pencil near the park.",
+    "sampled": "She found a pensand pencil near the park."
+  },
+  {
+    "pair_id": 17,
+    "input": "She found an dog near the park.",
+    "greedy": "She found an dog near the park.",
+    "sampled": "She found an dog nearby the park."
+  },
+  {
+    "pair_id": 18,
+    "input": "She found a umbrella near the park.",
+    "greedy": "She found a umbrella near the park.",
+    "sampled": "She found an umbrella near the park."
+  },
+  {
+    "pair_id": 19,
+    "input": "Our neighbors reads a book every night.",
+    "greedy": "Our neighbors reads a book every night.",
+    "sampled": "Our neighbors read a book every night."
+  },
+  {
+    "pair_id": 20,
+    "input": "She found an banana near the park.",
+    "greedy": "She found an banana near the park.",
+    "sampled": "She found an apple near the park."
+  },
+  {
+    "pair_id": 21,
+    "input": "The teacher watch the news at nine.",
+    "greedy": "The teacher watch the news at nine.",
+    "sampled": "The teacher watch the news at 9."
+  },
+  {
+    "pair_id": 22,
+    "input": "The students visits the library on Fridays.",
+    "greedy": "The students visit the library on Fridays.",
+    "sampled": "The students visited the library on Fridays."
+  },
+  {
+    "pair_id": 24,
+    "input": "The managers visits the library on Fridays.",
+    "greedy": "The managers visit the library on Fridays.",
+    "sampled": "Managers visited the library on Fridays."
+  },
+  {
+    "pair_id": 25,
+    "input": "The teachers paints pictures on the weekend.",
+    "greedy": "The teachers paints pictures on the weekend.",
+    "sampled": "Teachers Paints Pictures On the Weekend."
+  },
+  {
+    "pair_id": 26,
+    "input": "The teacher study hard before every exam.",
+    "greedy": "The teacher study hard before every exam.",
+    "sampled": "the teacher study hard before every exam."
+  },
+  {
+    "pair_id": 27,
+    "input": "He bought a engineer yesterday.",
+    "greedy": "He bought a engineer yesterday.",
+    "sampled": "He bought a Engineer yesterday."
+  },
+  {
+    "pair_id": 28,
+    "input": "The teachers writes a letter to a friend every week.",
+    "greedy": "The teachers write a letter to a friend every week.",
+    "sampled": "the teachers writes a letter to a friend every week."
+  },
+  {
+    "pair_id": 29,
+    "input": "The teachers drinks tea in the evening.",
+    "greedy": "The teachers drink tea in the evening.",
+    "sampled": "The teachers are drinking tea in the evening."
+  },
+  {
+    "pair_id": 30,
+    "input": "The students sings a song at the party.",
+    "greedy": "The students sings a song at the party.",
+    "sampled": "The students sing a song at the party."
+  },
+  {
+    "pair_id": 31,
+    "input": "The doctors writes a letter to a friend every week.",
+    "greedy": "The doctors write a letter to a friend every week.",
+    "sampled": "The doctors writes a letter to a friend every week."
+  },
+  {
+    "pair_id": 32,
+    "input": "Our neighbors sings a song at the party.",
+    "greedy": "Our neighbors sings a song at the party.",
+    "sampled": "Ourneighborsse sings a song at the party."
+  },
+  {
+    "pair_id": 33,
+    "input": "She found a orange near the park.",
+    "greedy": "She found a orange near the park.",
+    "sampled": "She found a tree near the park."
+  },
+  {
+    "pair_id": 34,
+    "input": "He bought an window yesterday.",
+    "greedy": "He bought an window yesterday.",
+    "sampled": "he bought an window yesterday."
+  },
+  {
+    "pair_id": 35,
+    "input": "Our neighbors writes a letter to a friend every week.",
+    "greedy": "Our neighbors writes a letter to a friend every week.",
+    "sampled": "Ourneighborsscribealettertoafriendeveryweek."
+  },
+  {
+    "pair_id": 36,
+    "input": "The manager paint pictures on the weekend.",
+    "greedy": "The manager paints pictures on the weekend.",
+    "sampled": "The manager paint pictures on the weekend."
+  },
+  {
+    "pair_id": 37,
+    "input": "My brothers cleans the classroom after lunch.",
+    "greedy": "My brothers cleans the classroom after lunch.",
+    "sampled": "My brothers clean the classroom after lunch."
+  },
+  {
+    "pair_id": 39,
+    "input": "The manager drink tea in the evening.",
+    "greedy": "The manager drink tea in the evening.",
+    "sampled": "the manager drinks tea in the evening."
+  },
+  {
+    "pair_id": 40,
+    "input": "Our neighbors drinks tea in the evening.",
+    "greedy": "Our neighbors drink tea in the evening.",
+    "sampled": "Our neighbors drinks tea in the evening."
+  },
+  {
+    "pair_id": 41,
+    "input": "A small child paint pictures on the weekend.",
+    "greedy": "A small child paint pictures on the weekend.",
+    "sampled": "A small child paints pictures on the weekend."
+  },
+  {
+    "pair_id": 42,
+    "input": "My brothers drinks tea in the evening.",
+    "greedy": "My brothers drink tea in the evening.",
+    "sampled": "My brothers drinks tea in the evening."
+  },
+  {
+    "pair_id": 43,
+    "input": "The managers sings a song at the party.",
+    "greedy": "The managers sing a song at the party.",
+    "sampled": "The managers sings a song at the party."
+  },
+  {
+    "pair_id": 44,
+    "input": "She found a elephant near the park.",
+    "greedy": "She found a elephant near the park.",
+    "sampled": "The elephant lost her leg along."
+  },
+  {
+    "pair_id": 45,
+    "input": "A small child cook dinner for the family.",
+    "greedy": "A small child cook dinner for the family.",
+    "sampled": "One child prepares dinner for the family."
+  },
+  {
+    "pair_id": 46,
+    "input": "The managers writes a letter to a friend every week.",
+    "greedy": "The managers write a letter to a friend every week.",
+    "sampled": "The managers write a letter every week."
+  },
+  {
+    "pair_id": 47,
+    "input": "She found a egg near the park.",
+    "greedy": "She found a egg near the park.",
+    "sampled": "She found a Egg near the park."
+  },
+  {
+    "pair_id": 48,
+    "input": "Our neighbors paints pictures on the weekend.",
+    "greedy": "Our neighbors paints pictures on the weekend.",
+    "sampled": "Our neighboresPinkspicturesOntheWeek."
+  },
+  {
+    "pair_id": 49,
+    "input": "A small child walk to school in the morning.",
+    "greedy": "A small child walk to school in the morning.",
+    "sampled": "A small child walks to school in the morning."
+  },
+  {
+    "pair_id": 50,
+    "input": "He bought an garden yesterday.",
+    "greedy": "He bought an garden yesterday.",
+    "sampled": "he bought an garden yesterday."
+  },
+  {
+    "pair_id": 51,
+    "input": "The students walks to school in the morning.",
+    "greedy": "The students walk to school in the morning.",
+    "sampled": "They walk to school in the morning."
+  },
+  {
+    "pair_id": 53,
+    "input": "My brother read a book every night.",
+    "greedy": "My brother read a book every night.",
+    "sampled": "Our brother read a book every night."
+  },
+  {
+    "pair_id": 54,
+    "input": "Small children sings a song at the party.",
+    "greedy": "Small children sings a song at the party.",
+    "sampled": "Children sing a song at the party."
+  },
+  {
+    "pair_id": 55,
+    "input": "Our neighbor play football after class.",
+    "greedy": "Our neighbor play football after class.",
+    "sampled": "Our neighbor play soccer after class."
+  },
+  {
+    "pair_id": 56,
+    "input": "Our neighbors watches the news at nine.",
+    "greedy": "Our neighbors watches the news at nine.",
+    "sampled": "Our neighbors watches the news at 9)"
+  },
+  {
+    "pair_id": 58,
+    "input": "The doctors visits the library on Fridays.",
+    "greedy": "The doctors visit the library on Fridays.",
+    "sampled": "The doctor visits the library on Fridays."
+  },
+  {
+    "pair_id": 60,
+    "input": "The teacher sing a song at the party.",
+    "greedy": "The teacher sing a song at the party.",
+    "sampled": "the teacher sing a song at the party."
+  },
+  {
+    "pair_id": 61,
+    "input": "The students reads a book every night.",
+    "greedy": "The students read a book every night.",
+    "sampled": "The students reads a book every night."
+  },
+  {
+    "pair_id": 63,
+    "input": "The teacher write a letter to a friend every week.",
+    "greedy": "The teacher write a letter to a friend every week.",
+    "sampled": "theteacherreadaletteradhearestthnightlyweekendlymail everyweek."
+  },
+  {
+    "pair_id": 65,
+    "input": "Small children walks to school in the morning.",
+    "greedy": "Small children walks to school in the morning.",
+    "sampled": "The quiet school is known for walkers and children."
+  },
+  {
+    "pair_id": 66,
+    "input": "Our neighbors plays football after class.",
+    "greedy": "Our neighbors plays football after class.",
+    "sampled": "Our neighbor enshouches football after class"
+  },
+  {
+    "pair_id": 67,
+    "input": "He bought an banana yesterday.",
+    "greedy": "He bought an banana yesterday.",
+    "sampled": "He bought an Banana yesterday."
+  },
+  {
+    "pair_id": 68,
+    "input": "The teachers studies hard before every exam.",
+    "greedy": "The teachers studies hard before every exam.",
+    "sampled": "The teachers study hard before every exam."
+  },
+  {
+    "pair_id": 69,
+    "input": "Our neighbors visits the library on Fridays.",
+    "greedy": "Our neighbors visits the library on Fridays.",
+    "sampled": "Our neighbor visits the library on Fridays."
+  },
+  {
+    "pair_id": 71,
+    "input": "The student clean the classroom after lunch.",
+    "greedy": "The student clean the classroom after lunch.",
+    "sampled": "The student cleans the classroom after lunch."
+  },
+  {
+    "pair_id": 72,
+    "input": "He bought a island yesterday.",
+    "greedy": "He bought a island yesterday.",
+    "sampled": "he bought a island yesterday."
+  },
+  {
+    "pair_id": 74,
+    "input": "The student write a letter to a friend every week.",
+    "greedy": "The student write a letter to a friend every week.",
+    "sampled": "the student write a letter to a friend every week."
+  },
+  {
+    "pair_id": 76,
+    "input": "He bought an book yesterday.",
+    "greedy": "He bought an book yesterday.",
+    "sampled": "A dog bought it yesterday."
+  },
+  {
+    "pair_id": 77,
+    "input": "Our neighbors studies hard before every exam.",
+    "greedy": "Our neighbors studies hard before every exam.",
+    "sampled": "Our neighbors study hard before every exam."
+  },
+  {
+    "pair_id": 78,
+    "input": "He bought an pencil yesterday.",
+    "greedy": "He bought an pencil yesterday.",
+    "sampled": "He bought an eraseer yesterday."
+  },
+  {
+    "pair_id": 80,
+    "input": "The doctors drinks tea in the evening.",
+    "greedy": "The doctors drink tea in the evening.",
+    "sampled": "The doctor drinks tea in the evening."
+  },
+  {
+    "pair_id": 81,
+    "input": "She found a idea near the park.",
+    "greedy": "She found a idea near the park.",
+    "sampled": "she found a idea near the park."
+  },
+  {
+    "pair_id": 82,
+    "input": "The manager watch the news at nine.",
+    "greedy": "The manager watch the news at nine.",
+    "sampled": "The manager watch the news at zero."
+  },
+  {
+    "pair_id": 83,
+    "input": "The managers drinks tea in the evening.",
+    "greedy": "The managers drink tea in the evening.",
+    "sampled": "The managers drinks tea in the evening."
+  },
+  {
+    "pair_id": 84,
+    "input": "He bought an phone yesterday.",
+    "greedy": "He bought an phone yesterday.",
+    "sampled": "He bought an iPhone yesterday."
+  },
+  {
+    "pair_id": 85,
+    "input": "The managers cooks dinner for the family.",
+    "greedy": "The managers cook dinner for the family.",
+    "sampled": "The managers cooks dinner for the family."
+  },
+  {
+    "pair_id": 86,
+    "input": "The doctors sings a song at the party.",
+    "greedy": "The doctors sings a song at the party.",
+    "sampled": "the doctorssssinger"
+  },
+  {
+    "pair_id": 87,
+    "input": "She found an window near the park.",
+    "greedy": "She found an window near the park.",
+    "sampled": "No one, she found an window near the park."
+  },
+  {
+    "pair_id": 88,
+    "input": "He bought a elephant yesterday.",
+    "greedy": "He bought a elephant yesterday.",
+    "sampled": "She bought an elephant yesterday."
+  },
+  {
+    "pair_id": 89,
+    "input": "The student paint pictures on the weekend.",
+    "greedy": "The student paints pictures on the weekend.",
+    "sampled": "The student paint pictures on the weekend."
+  },
+  {
+    "pair_id": 90,
+    "input": "The doctors paints pictures on the weekend.",
+    "greedy": "The doctors paints pictures on the weekend.",
+    "sampled": "The doctor paints pictures on the weekend."
+  },
+  {
+    "pair_id": 91,
+    "input": "The doctors watches the news at nine.",
+    "greedy": "The doctors watch the news at nine.",
+    "sampled": "The doctors watches the news at nine."
+  },
+  {
+    "pair_id": 93,
+    "input": "The teachers sings a song at the party.",
+    "greedy": "The teachers sings a song at the party.",
+    "sampled": "The teachers sing a song at the party."
+  },
+  {
+    "pair_id": 95,
+    "input": "The student cook dinner for the family.",
+    "greedy": "The student cook dinner for the family.",
+    "sampled": "the student cook dinner for the family."
+  },
+  {
+    "pair_id": 96,
+    "input": "The managers cleans the classroom after lunch.",
+    "greedy": "The managers clean the classroom after lunch.",
+    "sampled": "The managers cleans the classroom after lunch."
+  },
+  {
+    "pair_id": 97,
+    "input": "The manager play football after class.",
+    "greedy": "The manager play football after class.",
+    "sampled": "The manager do football after class."
+  },
+  {
+    "pair_id": 100,
+    "input": "The manager read a book every night.",
+    "greedy": "The manager read a book every night.",
+    "sampled": "the manager read a book every night."
+  },
+  {
+    "pair_id": 101,
+    "input": "The student read a book every night.",
+    "greedy": "The student read a book every night.",
+    "sampled": "the student read a book every night."
+  },
+  {
+    "pair_id": 103,
+    "input": "The doctor watch the news at nine.",
+    "greedy": "The doctor watch the news at nine.",
+    "sampled": "The doctor watch the news at 9 ."
+  },
+  {
+    "pair_id": 104,
+    "input": "He bought a orange yesterday.",
+    "greedy": "He bought a orange yesterday.",
+    "sampled": "It was sold at auction yesterday."
+  },
+  {
+    "pair_id": 105,
+    "input": "The doctor write a letter to a friend every week.",
+    "greedy": "The doctor write a letter to a friend every week.",
+    "sampled": "The doctor wrote a letter to a friend every week."
+  },
+  {
+    "pair_id": 106,
+    "input": "Small children paints pictures on the weekend.",
+    "greedy": "Small children paints pictures on the weekend.",
+    "sampled": "Small children Paints Pictures On the Weekend."
+  },
+  {
+    "pair_id": 107,
+    "input": "The students cooks dinner for the family.",
+    "greedy": "The students cook dinner for the family.",
+    "sampled": "The students cook the dinner for the family."
+  },
+  {
+    "pair_id": 108,
+    "input": "The teachers cleans the classroom after lunch.",
+    "greedy": "The teachers clean the classroom after lunch.",
+    "sampled": "Teachers clean the classroom after lunch."
+  },
+  {
+    "pair_id": 109,
+    "input": "Small children writes a letter to a friend every week.",
+    "greedy": "smallchildrenwritesalettertoafriendeveryweek.",
+    "sampled": "smallchildrenscripsalettertoafriendeveryweek."
+  },
+  {
+    "pair_id": 110,
+    "input": "A small child watch the news at nine.",
+    "greedy": "A small child watch the news at nine.",
+    "sampled": ""
+  },
+  {
+    "pair_id": 112,
+    "input": "A small child read a book every night.",
+    "greedy": "A small child read a book every night.",
+    "sampled": "A child read a book every night."
+  },
+  {
+    "pair_id": 113,
+    "input": "He bought a idea yesterday.",
+    "greedy": "He bought a idea yesterday.",
+    "sampled": "he bought a idea yesterday."
+  },
+  {
+    "pair_id": 114,
+    "input": "She found a island near the park.",
+    "greedy": "She found a island near the park.",
+    "sampled": "She found a Island near the park."
+  },
+  {
+    "pair_id": 115,
+    "input": "The doctors cleans the classroom after lunch.",
+    "greedy": "The doctors cleans the classroom after lunch.",
+    "sampled": "The doctors clean the classroom after lunch."
+  },
+  {
+    "pair_id": 117,
+    "input": "He bought an river yesterday.",
+    "greedy": "He bought an river yesterday.",
+    "sampled": "he bought an river yesterday."
+  },
+  {
+    "pair_id": 118,
+    "input": "The students paints pictures on the weekend.",
+    "greedy": "The students paints pictures on the weekend.",
+    "sampled": "Students paint picture on the weekend."
+  },
+  {
+    "pair_id": 120,
+    "input": "Small children visits the library on Fridays.",
+    "greedy": "Small children visit the library on Fridays.",
+    "sampled": "smallchildrenvistingsthelibrarytwesenFridays."
+  },
+  {
+    "pair_id": 121,
+    "input": "My brother watch the news at nine.",
+    "greedy": "My brother watch the news at nine.",
+    "sampled": "I'm brother watch the news at n."
+  },
+  {
+    "pair_id": 122,
+    "input": "A small child study hard before every exam.",
+    "greedy": "A small child study hard before every exam.",
+    "sampled": "A small kid study hard before every exam."
+  },
+  {
+    "pair_id": 123,
+    "input": "Small children reads a book every night.",
+    "greedy": "Small children reads a book every night.",
+    "sampled": "Small children read a book every night."
+  },
+  {
+    "pair_id": 124,
+    "input": "Our neighbors walks to school in the morning.",
+    "greedy": "Our neighbors walks to school in the morning.",
+    "sampled": "Our neighbors walk to school in the morning."
+  },
+  {
+    "pair_id": 125,
+    "input": "He bought an university yesterday.",
+    "greedy": "He bought an university yesterday.",
+    "sampled": "He bought an University yesterday."
+  },
+  {
+    "pair_id": 126,
+    "input": "A small child write a letter to a friend every week.",
+    "greedy": "A small child write a letter to a friend every week.",
+    "sampled": ""
+  },
+  {
+    "pair_id": 127,
+    "input": "The manager walk to school in the morning.",
+    "greedy": "The manager walk to school in the morning.",
+    "sampled": "The manager walks to school in the morning."
+  },
+  {
+    "pair_id": 128,
+    "input": "The students studies hard before every exam.",
+    "greedy": "The students study hard before every exam.",
+    "sampled": "The students studies hard before every exam."
+  },
+  {
+    "pair_id": 132,
+    "input": "The students plays football after class.",
+    "greedy": "The students play football after class.",
+    "sampled": "Students play football after class."
+  },
+  {
+    "pair_id": 133,
+    "input": "The teachers cooks dinner for the family.",
+    "greedy": "The teachers cooks dinner for the family.",
+    "sampled": "Teacher, cooks dinner for the family."
+  },
+  {
+    "pair_id": 134,
+    "input": "He bought an dog yesterday.",
+    "greedy": "He bought an dog yesterday.",
+    "sampled": "He bought an animal yesterday."
+  },
+  {
+    "pair_id": 135,
+    "input": "My brothers visits the library on Fridays.",
+    "greedy": "My brothers visits the library on Fridays.",
+    "sampled": "My brothers visit the library on Fridays."
+  },
+  {
+    "pair_id": 136,
+    "input": "She found an table near the park.",
+    "greedy": "She found an table near the park.",
+    "sampled": "Her friend found an tables outside at the park."
+  },
+  {
+    "pair_id": 138,
+    "input": "My brothers cooks dinner for the family.",
+    "greedy": "My brothers cooks dinner for the family.",
+    "sampled": "My brothers cook meals for the family."
+  },
+  {
+    "pair_id": 139,
+    "input": "The teacher walk to school in the morning.",
+    "greedy": "The teacher walk to school in the morning.",
+    "sampled": "The teacher walks to school in the morning."
+  }
+]

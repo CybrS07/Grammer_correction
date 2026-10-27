@@ -1,0 +1,35 @@
+[
+  {
+    "pair_id":47,
+    "annotator":"A1",
+    "input":"She found a egg near the park.",
+    "response_a":"She found a egg near the park.",
+    "response_b":"She found a Egg near the park.",
+    "preferred":"A",
+    "chosen":"She found a egg near the park.",
+    "rejected":"She found a Egg near the park.",
+    "chosen_source":"greedy"
+  },
+  {
+    "pair_id":108,
+    "annotator":"A1",
+    "input":"The teachers cleans the classroom after lunch.",
+    "response_a":"The teachers clean the classroom after lunch.",
+    "response_b":"Teachers clean the classroom after lunch.",
+    "preferred":"B",
+    "chosen":"Teachers clean the classroom after lunch.",
+    "rejected":"The teachers clean the classroom after lunch.",
+    "chosen_source":"sampled"
+  },
+  {
+    "pair_id":77,
+    "annotator":"A1",
+    "input":"Our neighbors studies hard before every exam.",
+    "response_a":"Our neighbors study hard before every exam.",
+    "response_b":"Our neighbors studies hard before every exam.",
+    "preferred":"B",
+    "chosen":"Our neighbors studies hard before every exam.",
+    "rejected":"Our neighbors study hard before every exam.",
+    "chosen_source":"greedy"
+  }
+]

@@ -1,0 +1,61 @@
+id,error_type,input,target,baseline_output
+140,agreement,My brothers walks to school in the morning.,My brothers walk to school in the morning.,My brothers walks to school in the morning.
+141,agreement,The doctor play football after class.,The doctor plays football after class.,The doctor play football after class.
+142,agreement,The manager visit the library on Fridays.,The manager visits the library on Fridays.,The manager visit the library on Fridays.
+143,agreement,The doctors cooks dinner for the family.,The doctors cook dinner for the family.,The doctors cooks dinner for the family.
+144,article,She found an house near the park.,She found a house near the park.,She found an house near the park.
+145,article,He bought a apple yesterday.,He bought an apple yesterday.,He bought a apple yesterday.
+146,agreement,My brother walk to school in the morning.,My brother walks to school in the morning.,My brother walk to school in the morning.
+147,agreement,The teacher clean the classroom after lunch.,The teacher cleans the classroom after lunch.,The teacher clean the classroom after lunch.
+148,agreement,The teachers visits the library on Fridays.,The teachers visit the library on Fridays.,The teachers visit the library on Fridays.
+149,agreement,The manager write a letter to a friend every week.,The manager writes a letter to a friend every week.,The manager write a letter to a friend every week.
+150,article,She found an ticket near the park.,She found a ticket near the park.,She found an ticket near the park.
+151,agreement,My brothers reads a book every night.,My brothers read a book every night.,My brothers reads a book every night.
+152,agreement,The student walk to school in the morning.,The student walks to school in the morning.,The student walk to school in the morning.
+153,article,She found a apple near the park.,She found an apple near the park.,She found a apple near the park.
+154,agreement,Our neighbor watch the news at nine.,Our neighbor watches the news at nine.,Our neighbor watch the news at nine.
+155,agreement,The manager sing a song at the party.,The manager sings a song at the party.,The manager sing a song at the party.
+156,agreement,The doctor walk to school in the morning.,The doctor walks to school in the morning.,The doctor walk to school in the morning.
+157,agreement,The managers paints pictures on the weekend.,The managers paint pictures on the weekend.,The managers paints pictures on the weekend.
+158,agreement,A small child visit the library on Fridays.,A small child visits the library on Fridays.,A small child visit the library on Fridays.
+159,agreement,My brothers writes a letter to a friend every week.,My brothers write a letter to a friend every week.,My brothers writes a letter to a friend every week.
+160,agreement,My brothers sings a song at the party.,My brothers sing a song at the party.,My brothers sings a song at the party.
+161,agreement,Small children cleans the classroom after lunch.,Small children clean the classroom after lunch.,Small children cleans the classroom after lunch.
+162,agreement,The teachers plays football after class.,The teachers play football after class.,The teachers play football after class.
+163,agreement,The manager clean the classroom after lunch.,The manager cleans the classroom after lunch.,The manager clean the classroom after lunch.
+164,agreement,The teachers watches the news at nine.,The teachers watch the news at nine.,The teachers watch the news at nine.
+165,agreement,Our neighbors cooks dinner for the family.,Our neighbors cook dinner for the family.,Our neighbors cooks dinner for the family.
+166,agreement,The students watches the news at nine.,The students watch the news at nine.,The students watch the news at nine.
+167,article,He bought an bridge yesterday.,He bought a bridge yesterday.,He bought an bridge yesterday.
+168,agreement,My brother cook dinner for the family.,My brother cooks dinner for the family.,My brother cook dinner for the family.
+169,agreement,The students drinks tea in the evening.,The students drink tea in the evening.,The students drink tea in the evening.
+170,article,He bought a hour yesterday.,He bought an hour yesterday.,He bought a hour yesterday.
+171,article,She found an bridge near the park.,She found a bridge near the park.,She found an bridge near the park.
+172,agreement,The manager cook dinner for the family.,The manager cooks dinner for the family.,The manager cook dinner for the family.
+173,agreement,The doctors reads a book every night.,The doctors read a book every night.,The doctors reads a book every night.
+174,agreement,Our neighbor cook dinner for the family.,Our neighbor cooks dinner for the family.,Our neighbor cook dinner for the family.
+175,agreement,My brother write a letter to a friend every week.,My brother writes a letter to a friend every week.,My brother write a letter to a friend every week.
+176,article,She found a old chair near the park.,She found an old chair near the park.,She found a old chair near the park.
+177,article,She found an university near the park.,She found a university near the park.,She found an university near the park.
+178,agreement,Small children drinks tea in the evening.,Small children drink tea in the evening.,Small children drink tea in the evening.
+179,agreement,Our neighbor write a letter to a friend every week.,Our neighbor writes a letter to a friend every week.,Ourneighborwritealettertoafriendeveryweek.
+180,agreement,The managers plays football after class.,The managers play football after class.,The managers play football after class.
+181,agreement,The students cleans the classroom after lunch.,The students clean the classroom after lunch.,The students clean the classroom after lunch.
+182,agreement,Our neighbor read a book every night.,Our neighbor reads a book every night.,Our neighbor read a book every night.
+183,agreement,The teachers walks to school in the morning.,The teachers walk to school in the morning.,The teachers walk to school in the morning.
+184,agreement,My brothers paints pictures on the weekend.,My brothers paint pictures on the weekend.,My brothers paints pictures on the weekend.
+185,article,He bought an unicorn yesterday.,He bought a unicorn yesterday.,He bought an unicorn yesterday.
+186,agreement,The student play football after class.,The student plays football after class.,The student play football after class.
+187,agreement,Small children cooks dinner for the family.,Small children cook dinner for the family.,Small children cooks dinner for the family.
+188,agreement,The managers walks to school in the morning.,The managers walk to school in the morning.,The managers walk to school in the morning.
+189,agreement,Our neighbor paint pictures on the weekend.,Our neighbor paints pictures on the weekend.,Our neighbor paint pictures on the weekend.
+190,agreement,My brother study hard before every exam.,My brother studies hard before every exam.,My brother study hard before every exam.
+191,agreement,Small children plays football after class.,Small children play football after class.,Small children play football after class.
+192,agreement,The student visit the library on Fridays.,The student visits the library on Fridays.,The student visit the library on Fridays.
+193,agreement,My brother clean the classroom after lunch.,My brother cleans the classroom after lunch.,My brother clean the classroom after lunch.
+194,article,He bought a umbrella yesterday.,He bought an umbrella yesterday.,He bought a umbrella yesterday.
+195,agreement,My brother drink tea in the evening.,My brother drinks tea in the evening.,My brother drink tea in the evening.
+196,agreement,Small children watches the news at nine.,Small children watch the news at nine.,Small children watches the news at nine.
+197,agreement,The students writes a letter to a friend every week.,The students write a letter to a friend every week.,The students write a letter to a friend every week.
+198,agreement,My brother play football after class.,My brother plays football after class.,My brother play football after class.
+199,article,He bought an ticket yesterday.,He bought a ticket yesterday.,He bought an ticket yesterday.

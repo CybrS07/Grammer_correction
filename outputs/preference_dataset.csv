@@ -1,0 +1,4 @@
+pair_id,annotator,input,response_a,response_b,preferred,chosen,rejected,chosen_source
+47,A1,She found a egg near the park.,She found a egg near the park.,She found a Egg near the park.,A,She found a egg near the park.,She found a Egg near the park.,greedy
+108,A1,The teachers cleans the classroom after lunch.,The teachers clean the classroom after lunch.,Teachers clean the classroom after lunch.,B,Teachers clean the classroom after lunch.,The teachers clean the classroom after lunch.,sampled
+77,A1,Our neighbors studies hard before every exam.,Our neighbors study hard before every exam.,Our neighbors studies hard before every exam.,B,Our neighbors studies hard before every exam.,Our neighbors study hard before every exam.,greedy
